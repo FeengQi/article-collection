@@ -19,6 +19,7 @@
 - [使用 React Hooks 请求数据的四种方式](https://www.robinwieruch.de/react-hooks-fetch-data/)
 - [React Redux 发布了 7.0.0-beta 版本，在其中实现了 useRedux 接口](https://github.com/reduxjs/react-redux/releases/tag/v7.0.0-beta.0)
 - [React-Router 5 已经发布，Route 支持 array 作为 path 输入值了](https://reacttraining.com/blog/react-router-v5/)
+- [What’s New in Kubernetes 1.13](https://coreos.com/blog/whats-new-kubernetes-113)
 
 ### 库
 - [python敏感词过滤的几种实现+某1w词敏感词库](https://github.com/observerss/textfilter)
