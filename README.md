@@ -28,3 +28,4 @@
 - [Cube.js - Open Source Analytics Framework](https://cube.dev/)
 - [⚡ Zero config GUI for Jest](https://github.com/Raathigesh/majestic/)
 - [A Web Audio framework for making interactive music in the browser](https://github.com/Tonejs/Tone.js)
+- [Numeral.js 用于格式化和操作数字的JavaScript库](http://numeraljs.com/)
