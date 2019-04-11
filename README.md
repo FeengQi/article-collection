@@ -45,3 +45,4 @@
 - [perflink: Low friction JavaScript benchmarks that you can share via UR](https://github.com/lukejacksonn/perflink)
 - [solid: A declarative, efficient, and flexible JavaScript library for building user interfaces](https://github.com/ryansolid/solid)
 - [x-spreadsheet: A web-based JavaScript（canvas）spreadsheet](https://github.com/myliang/x-spreadsheet)
+- [轻量级web富文本框](https://github.com/wangfupeng1988/wangEditor)
