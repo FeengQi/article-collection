@@ -30,7 +30,11 @@
 - [2019年Vue生态圈调查：92%的开发者将继续用Vue](https://mp.weixin.qq.com/s/MC6n4RjgOUI1Ggm_r5WlQw)
 - [2019年Node趋势解读：大前端如何与Node结合](https://mp.weixin.qq.com/s/e_imK5d3QH-t6YJNQUIZOQ)
 - [讨论并征集关于 attribute 和 property 的译法](https://github.com/vuejs/cn.vuejs.org/issues/895)
-
+- [那么，来用 JS 画个黑洞吧](https://mp.weixin.qq.com/s/Di_72U8gNBF16sORKyWnMg)
+- [携程开源RN开发框架 - CRN](https://mp.weixin.qq.com/s/yPgyqrggtYbrg4htEaw_wg)
+- [Web 性能优化：Preload,Prefetch的使用及在 Chrome 中的优先级]( https://segmentfault.com/a/1190000018828048)
+- [Advanced Tooling for Web Components]( https://css-tricks.com/advanced-tooling-for-web-components/)
+- [正确配置 Visual Studio Code 开发和调试 TypeScript]( https://segmentfault.com/a/1190000018777683)
 ### 类库
 - [python敏感词过滤的几种实现+某1w词敏感词库](https://github.com/observerss/textfilter)
 - [Moedan — 简单、小巧、实用的弹幕引擎](https://github.com/huruji/moedan)
@@ -46,3 +50,6 @@
 - [solid: A declarative, efficient, and flexible JavaScript library for building user interfaces](https://github.com/ryansolid/solid)
 - [x-spreadsheet: A web-based JavaScript（canvas）spreadsheet](https://github.com/myliang/x-spreadsheet)
 - [轻量级web富文本框](https://github.com/wangfupeng1988/wangEditor)
+- [web：Run npm dependencies directly in the browser. No Browserify, Webpack or import maps required](https://github.com/pikapkg/web)
+- [Oimo.js：Lightweight 3d physics engine for javascript](https://github.com/lo-th/Oimo.js)
+- [realworld： The mother of all demo apps](https://github.com/gothinkster/realworld)
