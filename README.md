@@ -35,6 +35,8 @@
 - [Web 性能优化：Preload,Prefetch的使用及在 Chrome 中的优先级]( https://segmentfault.com/a/1190000018828048)
 - [Advanced Tooling for Web Components]( https://css-tricks.com/advanced-tooling-for-web-components/)
 - [正确配置 Visual Studio Code 开发和调试 TypeScript]( https://segmentfault.com/a/1190000018777683)
+- [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
+
 ### 类库
 - [python敏感词过滤的几种实现+某1w词敏感词库](https://github.com/observerss/textfilter)
 - [Moedan — 简单、小巧、实用的弹幕引擎](https://github.com/huruji/moedan)
@@ -53,3 +55,5 @@
 - [web：Run npm dependencies directly in the browser. No Browserify, Webpack or import maps required](https://github.com/pikapkg/web)
 - [Oimo.js：Lightweight 3d physics engine for javascript](https://github.com/lo-th/Oimo.js)
 - [realworld： The mother of all demo apps](https://github.com/gothinkster/realworld)
+- [react-router-v4](https://github.com/fi3ework/react-live-route/blob/master/docs/README-zh.md)
+- [提交 git commit 信息时轻松插入 emoji 的小工具](https://github.com/carloscuesta/gitmoji-cli)
