@@ -39,6 +39,7 @@
 - [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 - [前端工作面试问题](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/chinese/#general-questions)
 - [时隔一年，jQuery 发布 3.4.0 版本](http://blog.jquery.com/2019/04/10/jquery-3-4-0-released/)
+- [typescript-tutorial：TypeScript 入门教程](https://github.com/xcatliu/typescript-tutorial)
 ### 类库
 - [python敏感词过滤的几种实现+某1w词敏感词库](https://github.com/observerss/textfilter)
 - [Moedan — 简单、小巧、实用的弹幕引擎](https://github.com/huruji/moedan)
@@ -59,3 +60,5 @@
 - [realworld： The mother of all demo apps](https://github.com/gothinkster/realworld)
 - [react-router-v4](https://github.com/fi3ework/react-live-route/blob/master/docs/README-zh.md)
 - [提交 git commit 信息时轻松插入 emoji 的小工具](https://github.com/carloscuesta/gitmoji-cli)
+- [licecap 简单实用的 GIF 录屏工具](https://github.com/justinfrankel/licecap)
+- [lazysizes： 一款性能优秀、SEO 友好、自初始化的响应式图像延迟加载 JavaScript 插件](https://github.com/aFarkas/lazysizes)
