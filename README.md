@@ -38,6 +38,7 @@
 - [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
 - [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 - [前端工作面试问题](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/chinese/#general-questions)
+- [时隔一年，jQuery 发布 3.4.0 版本](http://blog.jquery.com/2019/04/10/jquery-3-4-0-released/)
 ### 类库
 - [python敏感词过滤的几种实现+某1w词敏感词库](https://github.com/observerss/textfilter)
 - [Moedan — 简单、小巧、实用的弹幕引擎](https://github.com/huruji/moedan)
