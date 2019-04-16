@@ -40,6 +40,12 @@
 - [前端工作面试问题](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/chinese/#general-questions)
 - [时隔一年，jQuery 发布 3.4.0 版本](http://blog.jquery.com/2019/04/10/jquery-3-4-0-released/)
 - [typescript-tutorial：TypeScript 入门教程](https://github.com/xcatliu/typescript-tutorial)
+- [兄弟，用大白话给你讲小白都能看懂的分布式系统容错架构](http://www.imooc.com/article/285233)
+- [阿里毕玄：我在系统设计上犯过的 14 个错](https://mp.weixin.qq.com/s?__biz=MzIxMzEzMjM5NQ==&mid=2651031744&idx=1&sn=3cf979f5c111d1553d47aa122a66a825)
+- [我在阿里云做前端](https://zhuanlan.zhihu.com/p/61127760)
+- [Google Cloud Next ’19](https://cloud.withgoogle.com/next/sf/)
+- [ZEIT Now, Serverless 时代的极简美学](https://zeit.co)
+
 ### 类库
 - [python敏感词过滤的几种实现+某1w词敏感词库](https://github.com/observerss/textfilter)
 - [Moedan — 简单、小巧、实用的弹幕引擎](https://github.com/huruji/moedan)
