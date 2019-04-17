@@ -45,7 +45,8 @@
 - [我在阿里云做前端](https://zhuanlan.zhihu.com/p/61127760)
 - [Google Cloud Next ’19](https://cloud.withgoogle.com/next/sf/)
 - [ZEIT Now, Serverless 时代的极简美学](https://zeit.co)
-
+- [节流阀和去抖动的基本实现](https://segmentfault.com/a/1190000018840094)
+- [From Redux to Hooks: A Case Study](https://staleclosures.dev/from-redux-to-hooks-case-study/?utm_campaign=React%2BNewsletter&utm_medium=web&utm_source=React_Newsletter_156)
 ### 类库
 - [python敏感词过滤的几种实现+某1w词敏感词库](https://github.com/observerss/textfilter)
 - [Moedan — 简单、小巧、实用的弹幕引擎](https://github.com/huruji/moedan)
