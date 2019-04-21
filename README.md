@@ -49,6 +49,7 @@
 - [From Redux to Hooks: A Case Study](https://staleclosures.dev/from-redux-to-hooks-case-study/?utm_campaign=React%2BNewsletter&utm_medium=web&utm_source=React_Newsletter_156)
 - [阿里三面，P9面试官是如何360°无死角考察候选人的？](http://www.imooc.com/article/285359)
 - [如何用网页脚本追踪用户](http://www.ruanyifeng.com/blog/2019/04/user-tracking.html)
+- [「Vue进阶」5分钟撸一个Vue CLI 插件](https://juejin.im/post/5cb59c4bf265da03a743e979)
 ### 类库
 - [python敏感词过滤的几种实现+某1w词敏感词库](https://github.com/observerss/textfilter)
 - [Moedan — 简单、小巧、实用的弹幕引擎](https://github.com/huruji/moedan)
