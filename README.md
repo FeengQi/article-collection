@@ -50,6 +50,11 @@
 - [阿里三面，P9面试官是如何360°无死角考察候选人的？](http://www.imooc.com/article/285359)
 - [如何用网页脚本追踪用户](http://www.ruanyifeng.com/blog/2019/04/user-tracking.html)
 - [「Vue进阶」5分钟撸一个Vue CLI 插件](https://juejin.im/post/5cb59c4bf265da03a743e979)
+- [GitHub OAuth 示例教程](http://www.ruanyifeng.com/blog/2019/04/github-oauth.html)
+- [A Future Without Webpack](https://www.pikapkg.com/blog/pika-web-a-future-without-webpack/)
+- [Edge Goes Chromium: What Does it Mean for Front-End Developers?](https://css-tricks.com/edge-goes-chromium-what-does-it-mean-for-front-end-developers/)
+- [Generate a Chart Image from URL](https://quickchart.io/)
+
 ### 类库
 - [python敏感词过滤的几种实现+某1w词敏感词库](https://github.com/observerss/textfilter)
 - [Moedan — 简单、小巧、实用的弹幕引擎](https://github.com/huruji/moedan)
@@ -72,3 +77,7 @@
 - [提交 git commit 信息时轻松插入 emoji 的小工具](https://github.com/carloscuesta/gitmoji-cli)
 - [licecap 简单实用的 GIF 录屏工具](https://github.com/justinfrankel/licecap)
 - [lazysizes： 一款性能优秀、SEO 友好、自初始化的响应式图像延迟加载 JavaScript 插件](https://github.com/aFarkas/lazysizes)
+- [React for interactive command-line apps](https://github.com/vadimdemedes/ink)
+- [Webpack bundle visualization](https://github.com/CatSnake11/Webpack-Ops?utm_campaign=React%2BNewsletter&utm_medium=web&utm_source=React_Newsletter_156)
+- [BUILD SERVERLESS DAPPS](https://squeezer.io/)
+- [ A simple and beautiful vuepress blog theme](https://github.com/recoluan/vuepress-theme-reco)
