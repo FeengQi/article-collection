@@ -54,6 +54,7 @@
 - [A Future Without Webpack](https://www.pikapkg.com/blog/pika-web-a-future-without-webpack/)
 - [Edge Goes Chromium: What Does it Mean for Front-End Developers?](https://css-tricks.com/edge-goes-chromium-what-does-it-mean-for-front-end-developers/)
 - [Generate a Chart Image from URL](https://quickchart.io/)
+- [ Forget React Router: Modern and clean routing with hooks](https://parastudios.de/modern-and-clean-routing-with-hooks/?utm_campaign=React%2BNewsletter&utm_medium=web&utm_source=React_Newsletter_154)
 
 ### 类库
 - [python敏感词过滤的几种实现+某1w词敏感词库](https://github.com/observerss/textfilter)
