@@ -82,3 +82,4 @@
 - [Webpack bundle visualization](https://github.com/CatSnake11/Webpack-Ops?utm_campaign=React%2BNewsletter&utm_medium=web&utm_source=React_Newsletter_156)
 - [BUILD SERVERLESS DAPPS](https://squeezer.io/)
 - [ A simple and beautiful vuepress blog theme](https://github.com/recoluan/vuepress-theme-reco)
+- [深入浅出Babel 工作原理](https://mp.weixin.qq.com/s/iVD5KnCURo-dZis3FkN45A)
