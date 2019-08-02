@@ -56,6 +56,7 @@
 - [Generate a Chart Image from URL](https://quickchart.io/)
 - [ Forget React Router: Modern and clean routing with hooks](https://parastudios.de/modern-and-clean-routing-with-hooks/?utm_campaign=React%2BNewsletter&utm_medium=web&utm_source=React_Newsletter_154)
 - [从各大跨平台技术说起，我们真的需要虚拟 DOM 吗？](https://mp.weixin.qq.com/s/mDwfvV6_f8K7HVSRHXbtWg)
+- [lodash的debounce,bind和es7的@装饰器](https://www.jianshu.com/p/c815fec95358)
 
 ### 类库
 - [python敏感词过滤的几种实现+某1w词敏感词库](https://github.com/observerss/textfilter)
