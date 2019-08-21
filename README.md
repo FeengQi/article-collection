@@ -86,3 +86,4 @@
 - [BUILD SERVERLESS DAPPS](https://squeezer.io/)
 - [ A simple and beautiful vuepress blog theme](https://github.com/recoluan/vuepress-theme-reco)
 - [深入浅出Babel 工作原理](https://mp.weixin.qq.com/s/iVD5KnCURo-dZis3FkN45A)
+- [A list of funny and tricky JavaScript examples](https://github.com/denysdovhan/wtfjs)
