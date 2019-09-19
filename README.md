@@ -58,6 +58,7 @@
 - [从各大跨平台技术说起，我们真的需要虚拟 DOM 吗？](https://mp.weixin.qq.com/s/mDwfvV6_f8K7HVSRHXbtWg)
 - [lodash的debounce,bind和es7的@装饰器](https://www.jianshu.com/p/c815fec95358)
 - [Flutter并不像你想象中的那么完美](https://mp.weixin.qq.com/s/Z6cHR-niqdOypYU2W0-_4Q)
+- [重学React】从零开始手写redux](https://mp.weixin.qq.com/s/XDVAN-GQcxlJvg8jjGqyLw)
 
 ### 类库
 - [python敏感词过滤的几种实现+某1w词敏感词库](https://github.com/observerss/textfilter)
