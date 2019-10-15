@@ -1,5 +1,5 @@
-# article-finishing
-平时看到的好文章进行收集整理
+# article-collection
+大佬收藏的好文章
 
 ### 文章
 - [《深入浅出Webpack》github](https://github.com/gwuhaolin/dive-into-webpack) 
