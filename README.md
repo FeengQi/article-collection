@@ -1,5 +1,4 @@
-# article-collection
-大佬收藏的好文章
+# collection
 
 ### 文章
 - [《深入浅出Webpack》github](https://github.com/gwuhaolin/dive-into-webpack) 
